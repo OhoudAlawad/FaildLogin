@@ -7,7 +7,7 @@
 # How do you use? كيف تستخدم؟
 ### 1- Connect to server الاتصال بالسيرفر
 #### Write in commend prompt:
-#### sudo ssh root@server-ip
+#### sudo ssh root@yourServer-ip
 #### Write password of your server
 ### 2- Clone FaildLogin file نسخ الملف للسيرفر  
 #### git clone https://github.com/OhoudAlawad/FaildLogin
